@@ -1,16 +1,9 @@
-# pjapp
+# MovieApp
 
-A new Flutter project.
+เป็นแอปพลิเคชันสำหรับแนะนำหนัง ที่มีใรปุจจุบัน ทั้งหนังการ์ตูน หนังต่างประเทศ โดยจะมีรูปภาพประกอบ กับชื่อเรื่อง ระยะเวลาของหนัง และเรื่องย่อ
 
-## Getting Started
+Prototypet : 
+https://www.figma.com/file/HnnyGQC9XLK0CJqrCGpKJW/app?type=design&node-id=0%3A1&mode=design&t=MzGgu8mruY03TMkO-1
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+การอธิบายการทำงาน : 
+https://youtu.be/tI_YIHr_rHs?si=pJRu8quwm_JBSVxT
